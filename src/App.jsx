@@ -1,3 +1,6 @@
+import Form from './Form';
+import ColorList from './ColorList';
+
 const App = () => {
   return (
     <main>
